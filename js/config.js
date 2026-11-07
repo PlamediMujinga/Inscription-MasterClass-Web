@@ -9,7 +9,7 @@
 export const CONFIG = {
   // Base de données Supabase (Project Settings > API)
   supabase: {
-    url: "https://qdaahgjpotpfslogmhow.supabase.co",
+    url: "https://qdaahgjpotpfslogmhow.supabase.co/rest/v1/",
     cle: "sb_publishable_ipdhk1kcB2Wxbhasp26uoQ_dU2-8mWI", // clé "anon" ou "publishable", jamais la clé "service_role"
     table: "inscriptions",
   },
